@@ -1,5 +1,5 @@
 {
-    "name": "Time",
+    "name": "TimeLib",
     "description": "Time keeping library",
     "keywords": "Time, date, hour, minute, second, day, week, month, year, RTC",
     "authors": [
@@ -15,7 +15,7 @@
     ],
     "repository": {
         "type": "git",
-         "url": "https://github.com/PaulStoffregen/Time"
+         "url": "https://github.com/thorsten-l/Time"
     },
     "version": "1.5",
     "homepage": "http://playground.arduino.cc/Code/Time",
